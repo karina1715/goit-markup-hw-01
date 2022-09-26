@@ -1,0 +1,18 @@
+body{
+   background-color: #F5F5F5;
+}
+/*колір основного тексту #757575 */
+.list{
+    list-style: none;
+}
+/*другорядний колір тексту */
+/* білий колір #F5F5F5 */
+/* акцент #F5F5F5 */
+/* другорядний колір фону #F5F4FA*/
+.logo{
+    color: black;
+}
+/* site nav*/
+.site-nav .link a{
+    color: ;
+}
